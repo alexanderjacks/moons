@@ -10,8 +10,8 @@ export const Title = styled.span`
 `;
 
 export const Container = styled.div`
-  padding: 4rem;
-  margin: 4rem;
+  padding: 1.1rem;
+  margin: 1.1rem;
   border-radius: 10px;
   position: relative;
   text-align: center;
