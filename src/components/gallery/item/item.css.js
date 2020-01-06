@@ -23,7 +23,8 @@ export const Container = styled.div`
 `;
 
 export const Copy = styled.p`
-  color: #757575;
+  transition: color 2.5s ease;
+  color: ${({ isVisible }) => (isVisible ? accent : ' #ffa')};
   margin: 0 2rem 2rem;
 
   ${MEDIA.TABLET`
