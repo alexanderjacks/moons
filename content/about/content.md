@@ -4,8 +4,9 @@ The flavor text in these property descriptions intends to evoke a stupendously c
 
 📚Some ideas mentioned on this site:
 - Luna 🌛 (Earth's Moon) has lots of real estate
-- Mars and Luna both have Arcologies, city-size buildings
-- some people live for many, many decades
+- Mars and Luna both have [Arcologies](https://en.wikipedia.org/wiki/Arcology), city-size buildings
+- [Ceres (queen of the asteroid belt)](https://solarsystem.nasa.gov/planets/dwarf-planets/ceres/in-depth/) is also lightly inhabited
+- some [people live for many, many decades](https://theoutline.com/post/1030/timothy-leary-silicon-valley-technolibertarian?zd=1&zi=edqbimrg)
 
 ------
 🛠 Tools
