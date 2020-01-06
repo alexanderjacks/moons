@@ -3,22 +3,22 @@
   "content": "intro.md",
   "pwacontent": "pwas.md",
   "gallery": [{
-      "title": "Progressive Web Apps",
-      "copy": "PWAs connect elements of both mobile and desktop user experience, making websites feel like apps. Your site can look great at any screen size, and can download to any device. We employ responsive design and other key PWA principles to make your brand truly cross-platform.",
+      "title": "Tranquility Bay Imperial",
+      "copy": "Serene and clean under American Earthrise",
       "route": "pwas",
-      "image": "../images/gallery/burnside-bridge.jpg"
+      "image": "../images/1.png"
     },
     {
-      "title": "Managed Cloud Services",
-      "copy": "We build with web-scale platforms like AWS and Azure, offering world-class uptime and performance. Running your custom app or WordPress instance on serverless AWS can translate into a big reduction in ops cost via these clouds' economies of scale.",
+      "title": "Dark Side of Luna Holdings",
+      "copy": "Timeless, Money, A Great Gig in the Sky",
       "route": "aws",
-      "image": "../images/gallery/two-and-a-halfth.jpg"
+      "image": "../images/6.png"
     },
     {
-      "title": "Serverless Architecting",
-      "copy": "Rapid and modern application development with less backend woes frees up time to hone and refine the message. Lighthouse and cross-browser testing help us optimize your page's load time on all devices.",
+      "title": "L5-2 Spindle Penthouse",
+      "copy": "Steady as She Goes",
       "route": "lessworkmoreplay",
-      "image": "../images/gallery/washington-park.jpg"
+      "image": "../images/3.png"
   }],
   "projects": [{
     "title": "Jacks Consulting",
