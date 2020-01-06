@@ -8,7 +8,7 @@ export const Container = styled.header`
     text-shadow: 1px 1px 2px black, 0 0 1em lime, 0 0 0.2em lime;
     padding: 2vw;
   }
-  background-image: linear-gradient(to right, #9cf, lightgreen, #9cf);
+  background-image: linear-gradient(to right, #036, #09a, #036);
   max-width: 100vw;
   display: flex;
   flex-flow: column nowrap;

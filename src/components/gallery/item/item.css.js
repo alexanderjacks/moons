@@ -3,6 +3,8 @@ import { accent } from 'constants/theme';
 import MEDIA from 'helpers/mediaTemplates';
 
 export const Title = styled.span`
+@import url('https://fonts.googleapis.com/  css?family=Quicksand&display=swap');
+  font-family: 'Quicksand', sans-serif;
   display: block;
   font-size: 2rem;
   font-weight: 500;
@@ -17,7 +19,7 @@ export const Container = styled.div`
   text-align: center;
   color: #fff;
   transition: background-color 2.5s ease;
-  background-color: ${({ isVisible }) => (isVisible ? accent : ' #3a6')};
+  background-color: ${({ isVisible }) => (isVisible ? accent : ' #009')};
 `;
 
 export const Copy = styled.p`

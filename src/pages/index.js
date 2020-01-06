@@ -17,7 +17,7 @@ const Index = ({ data }) => (
     <div style={{ height: '20vh' }} />
     <Box>
       <Title as="h2" size="small">
-        Moons Above, Project Description Here?
+        All the properties listed on this site are broadly fictitious. Please visit the About page for more info.
       </Title>
     </Box>
   </Layout>

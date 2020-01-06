@@ -2,7 +2,9 @@ import styled from 'styled-components';
 import MEDIA from 'helpers/mediaTemplates';
 
 export const Text = styled.span`
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
   display: block;
+  font-family: 'Quicksand', sans-serif;
   font-weight: ${({ size }) => () => {
     switch (size) {
       case 'large':

@@ -3,22 +3,58 @@
   "content": "intro.md",
   "pwacontent": "pwas.md",
   "gallery": [{
-      "title": "Tranquility Bay Imperial",
-      "copy": "Serene and clean under American Earthrise",
+      "title": "Tranquility Bay Retro-Imperial",
+      "copy": "Peaceful antimicrobial 3BR condo, self-feeding habs w Swiss aquifers. Up to 2 domestic mammals allowed! 149k/yr, NO min",
       "route": "pwas",
-      "image": "../images/1.png"
+      "image": "../images/3.png"
     },
     {
-      "title": "Dark Side of Luna Holdings",
-      "copy": "Timeless, Money, A Great Gig in the Sky",
+      "title": "Dark Side Cocoon, Luna",
+      "copy": "Synaesthetic equippage suite, full life support. Timeless, Money, A Great Gig in the Sky in Any Colour You Like. 209k/yr, 20yr min",
       "route": "aws",
       "image": "../images/6.png"
     },
     {
+      "title": "Ceres Centrale",
+      "copy": "Squarely under the Dome, C-Suite living at frontier prices; 5BR w inbuilt security + recyling only 58k/yr",
+      "route": "aws",
+      "image": "../images/5.png"
+    },
+    {
+      "title": "Frigoris Claim",
+      "copy": "Sprawling fields (28e6 hect.) in Luna's northern-most Mare known for abundant ice reserves; guild and family discounts available",
+      "route": "aws",
+      "image": "../images/1.png"
+    },
+    {
+      "title": "Ptolemy Heights Solar Centennial",
+      "copy": "Highest living (lit., fig.) on Luna, full staff and cryo facilities on site",
+      "route": "aws",
+      "image": "../images/4.png"
+    },
+    {
+      "title": "Cydonia Mons",
+      "copy": "The grandest Martian Arco yet, 2kmsq of luxury and virtuality; ready for permanent or 5-year hab contracts",
+      "route": "aws",
+      "image": "../images/9.png"
+    },
+    {
+      "title": "Nectaris Onyx Ivy",
+      "copy": "Luna's premier Arco, 1.2m and growing. Fully sufficient ecosystem w LivingSoil©, best-on-Luna healthcare and shopping. Special units available",
+      "route": "aws",
+      "image": "../images/2.png"
+    },
+    {
+      "title": "Retro Crisium Mixer",
+      "copy": "Wired for both farm & factory use ideal light commerical fab/hab space in Old Luna Moderne. Licenses included, guild discounts. 220k/yr, 2yr min",
+      "route": "aws",
+      "image": "../images/7.png"
+    },
+    {
       "title": "L5-2 Spindle Penthouse",
-      "copy": "Steady as She Goes",
+      "copy": "Steady as She Goes lifestyle for rugged demis. Survey Terra in this vintage berth. 118k/yr, 10yr min",
       "route": "lessworkmoreplay",
-      "image": "../images/3.png"
+      "image": "../images/8.png"
   }],
   "projects": [{
     "title": "Jacks Consulting",
