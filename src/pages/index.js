@@ -4,7 +4,6 @@ import Layout from 'components/layout';
 import Box from 'components/box';
 import Title from 'components/title';
 import Gallery from 'components/gallery';
-import ProjectList from 'components/projectlist';
 import { graphql } from 'gatsby';
 
 const Index = ({ data }) => (
@@ -18,10 +17,9 @@ const Index = ({ data }) => (
     <div style={{ height: '20vh' }} />
     <Box>
       <Title as="h2" size="small">
-        Recent Projects
+        Moons Above, Project Description Here?
       </Title>
     </Box>
-    <ProjectList projects={data.homeJson.projects} />
   </Layout>
 );
 

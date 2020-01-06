@@ -1,9 +1,9 @@
 const path = require('path');
 
 module.exports = {
-  siteTitle: `Jacks Consulting`,
-  siteTitleShort: `J4cks`,
-  siteDescription: `Serverless Websites & Cloud Architecting`,
+  siteTitle: `Moons Review`,
+  siteTitleShort: `Moons Review`,
+  siteDescription: `Fictional real estate listings beyond Earth`,
   siteUrl: `https://j4cks.com`,
   themeColor: `#050`,
   backgroundColor: `#00f`,

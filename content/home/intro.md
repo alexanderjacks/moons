@@ -1,1 +1,1 @@
-Salutations, you've reached Jacks Consulting. We specialize in static websites and serverless apps that scale seamlessly and save you money.
+Once we moved offworld, real estate became way more complicated. Here's an up-to-date listing of great properties beyond Terra Firma.
